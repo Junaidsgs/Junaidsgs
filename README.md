@@ -14,7 +14,7 @@
 name: Junaid Ahmad
 location: "Open to Remote / Relocation"
 current_role: "Game Developer | Designer "
-education: "Computer Science"
+education: "Computer Science MS [Ongoing]"
 available_for: "Full-time Roles | Freelance | Collaboration"
 
 passions:
