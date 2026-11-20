@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Profile header banner for Junaid - Game Developer | Graphics" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,1,1,15,32,39&height=220&section=header&text=Junaid&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Game%20Developer%20%7C%20Technical%20Artist%20%7C%20Graphics%20Specialist&descAlignY=55&descSize=20" width="100%"/>
+<img alt="Profile header banner for Junaid - Game Developer | Graphics" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,1,1,15,32,39&height=220&section=header&text=Junaid&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Game%20Developer%20%7C%20Software%20Engineer%20%7C%20Graphics%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+👋;Game+Developer+🚀;Always+learning+new+things+🌱;Open+to+exciting+opportunities+💼)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 name: Junaid Ahmad
 location: "Open to Remote / Relocation"
 current_role: "Game Developer | Designer "
-education: "Computer Science MS [Ongoing]"
+education: "Computer Science MS [Ongoing] - Expected May 2027"
 available_for: "Full-time Roles | Freelance | Collaboration"
 
 passions:
@@ -22,7 +22,7 @@ passions:
   - Clean code & best practices
   - Solving real-world problems with technology
 
-fun_fact: "I am also a Civil Engineer - don't tell anyone"
+fun_fact: "I am also a Civil Engineer."
 ```
 
 ---
